@@ -4,5 +4,7 @@
 [dask.array](https://examples.dask.org/array.html)  
 [Ubuntu安装Tkinter](https://blog.csdn.net/lanfei2/article/details/89211745)
 
+dask输出  x.compute()
+
 Python3笔记
 
