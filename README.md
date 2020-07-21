@@ -2,6 +2,7 @@
 [ipynb转换为python文件](https://blog.csdn.net/szfhy/article/details/81671090)  
 [napari-czi](https://github.com/AllenCellModeling/napari_x_pylibczi)  
 [dask.array](https://examples.dask.org/array.html)  
+[Ubuntu安装Tkinter](https://blog.csdn.net/lanfei2/article/details/89211745)
 
 Python3笔记
 
